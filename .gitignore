@@ -1,0 +1,8 @@
+__site/
+.DS_Store
+node_modules/
+package-lock.json
+*~
+.*.swp
+.*.swo
+_assets/scripts/output/
