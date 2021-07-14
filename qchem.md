@@ -4,5 +4,13 @@ hascode = true
 date = Date(2021, 7, 14)
 +++
 
+# Quantum chemistry folks in Julia
 
-abc 
+\toc
+
+## Slack channel
+
+
+## Meetings
+
+## Stuff
