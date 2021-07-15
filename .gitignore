@@ -6,3 +6,4 @@ package-lock.json
 .*.swp
 .*.swo
 _assets/scripts/output/
+Manifest.toml
