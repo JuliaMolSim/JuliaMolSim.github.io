@@ -17,5 +17,8 @@ Feel free to have a look at some of our projects:
 - [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl): Julia Library for Interatomic Potentials
 - [Libxc.jl](https://github.com/JuliaMolSim/Libxc.jl): Julia bindings to the libxc library for exchange-correlation functionals
 
+## Sister projects
+- [ACE.jl](https://github.com/ACEsuit/ACE.jl): Atomic cluster expansion in Julia
+
 ## Topics
 - [Quantum chemistry folks in Julia](/qchem/)
