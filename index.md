@@ -19,6 +19,7 @@ Feel free to have a look at some of our projects:
 
 ## Sister projects
 - [ACE.jl](https://github.com/ACEsuit/ACE.jl): Atomic cluster expansion in Julia
+- [asedftk](https://github.com/mfherbst/asedftk): DFTK-compatible calculator interface for the Atomic Simulation Environment (ASE).
 
 ## Topics
 - [Quantum chemistry folks in Julia](/qchem/)
