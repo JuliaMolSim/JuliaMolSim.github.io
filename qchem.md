@@ -17,6 +17,6 @@ at 2021 JuliaCon.
 Make sure you're [registered](https://juliacon.org/2021/tickets/) for the conference
 (free!) and please join us there!
 
-We will keep track of our discussions using this [shared HackMD notebook](https://hackmd.io/@mfh/SkOSgCTCd).
+If you missed it you can find the [notes on github](https://github.com/JuliaMolSim/Juliacon2021).
 
 ## Stuff
