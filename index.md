@@ -11,18 +11,21 @@ We're currently working on setting up this website.
 
 ## Projects
 Feel free to have a look at some of our projects:
+- [ACE.jl](https://github.com/ACEsuit/ACE.jl): Atomic cluster expansion in Julia
 - [DFTK.jl](https://dftk.org): A flexible code for density-functional theory simulations
+    * [asedftk](https://github.com/mfherbst/asedftk): DFTK-compatible calculator interface for the Atomic Simulation Environment (ASE).
 - [Molly.jl](https://juliamolsim.github.io/Molly.jl/stable/): Molecular simulation in Julia
 - [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl): Julia Library for Interatomic Potentials
 - [Libxc.jl](https://github.com/JuliaMolSim/Libxc.jl): Julia bindings to the libxc library for exchange-correlation functionals
-
-## Sister projects
-- [ACE.jl](https://github.com/ACEsuit/ACE.jl): Atomic cluster expansion in Julia
-- [asedftk](https://github.com/mfherbst/asedftk): DFTK-compatible calculator interface for the Atomic Simulation Environment (ASE).
 
 ## Slack channel
 [slack-url]: https://join.slack.com/t/juliamolsim/shared_invite/zt-tc060co0-HgiKApazzsQzBHDlQ58A7g
 Get involved in ongoing conversations by joining our [Slack workspace][slack-url]!
 
-## Topics
-- [Quantum chemistry folks in Julia](/qchem/)
+## Virtual meetings
+The "kickoff" will be [the BoF session](https://pretalx.com/juliacon2021/talk/ZQJAW3/)
+at 2021 JuliaCon.
+Make sure you're [registered](https://juliacon.org/2021/tickets/) for the conference
+(free!) and please join us there!
+
+If you missed it you can find the [notes on github](https://github.com/JuliaMolSim/Juliacon2021).
