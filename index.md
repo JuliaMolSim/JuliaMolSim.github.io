@@ -9,7 +9,6 @@ We're currently working on setting up this website.
 
 \toc
 
-
 ## Projects
 Feel free to have a look at some of our projects:
 - [DFTK.jl](https://dftk.org): A flexible code for density-functional theory simulations
@@ -20,6 +19,10 @@ Feel free to have a look at some of our projects:
 ## Sister projects
 - [ACE.jl](https://github.com/ACEsuit/ACE.jl): Atomic cluster expansion in Julia
 - [asedftk](https://github.com/mfherbst/asedftk): DFTK-compatible calculator interface for the Atomic Simulation Environment (ASE).
+
+## Slack channel
+[slack-url]: https://join.slack.com/t/juliamolsim/shared_invite/zt-tc060co0-HgiKApazzsQzBHDlQ58A7g
+Get involved in ongoing conversations by joining our [Slack workspace][slack-url]!
 
 ## Topics
 - [Quantum chemistry folks in Julia](/qchem/)
