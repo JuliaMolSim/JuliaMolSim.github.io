@@ -2,6 +2,8 @@
 
 # JuliaMolSim
 
+[[github]](https://github.com/JuliaMolSim)
+
 @@colbox-blue
 Your friendly organisation about molecular simulations in Julia.
 We're currently working on setting up this website.
