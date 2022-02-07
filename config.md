@@ -11,11 +11,8 @@ mintoclevel = 2
 # Base files such as LICENSE.md and README.md are ignored by default.
 ignore = ["node_modules/"]
 
-# RSS (the website_{title, descr, url} must be defined to get RSS)
+# Generate no RSS
 generate_rss = false
-website_title = "JuliaMolSim: Molecular Simulation in Julia"
-website_descr = "Molecular Simulation in Julia"
-website_url   = "https://juliamolsim.github.io/"
 +++
 
 <!--

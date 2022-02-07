@@ -14,8 +14,8 @@ We're currently working on setting up this website.
 ## Projects
 Feel free to have a look at some of our projects:
 - [ACE.jl](https://github.com/ACEsuit/ACE.jl): Atomic cluster expansion in Julia
+- [AtomsBase.jl](https://github.com/JuliaMolSim/AtomsBase.jl): A Julian abstract interface for atomic structures.
 - [DFTK.jl](https://dftk.org): A flexible code for density-functional theory simulations
-    * [asedftk](https://github.com/mfherbst/asedftk): DFTK-compatible calculator interface for the Atomic Simulation Environment (ASE).
 - [Molly.jl](https://juliamolsim.github.io/Molly.jl/stable/): Molecular simulation in Julia
 - [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl): Julia Library for Interatomic Potentials
 - [Libxc.jl](https://github.com/JuliaMolSim/Libxc.jl): Julia bindings to the libxc library for exchange-correlation functionals
