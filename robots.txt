@@ -1,4 +1,4 @@
-Sitemap: https://juliamolsim.github.io/sitemap.xml
+Sitemap: sitemap.xml
 
 User-agent: *
 Disallow:
