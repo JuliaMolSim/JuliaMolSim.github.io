@@ -1,4 +1,4 @@
-# JuliaCon 2022 Birds of feather
+# JuliaCon 2021 Birds of feather
 
 The "kickoff" of JuliaMolSim was the [the BoF session](https://pretalx.com/juliacon2021/talk/ZQJAW3/)
 at 2021 JuliaCon.
