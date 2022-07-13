@@ -2,14 +2,12 @@
 
 # JuliaMolSim
 
-[[github]](https://github.com/JuliaMolSim)
+Your friendly organisation about molecular simulations in Julia.
+We're currently working on setting up this website. You can also check us out on [GitHub](https://github.com/JuliaMolSim)!
 
 @@colbox-blue
-Your friendly organisation about molecular simulations in Julia.
-We're currently working on setting up this website.
+We're organizing a minisymposium at JuliaCon 2022. It will take place on July 22 from 1400-1700 UTC, and you can still participate by giving a "mini-pitch" – see [agenda page](/juliacon22) for details
 @@
-
-\toc
 
 ## Projects
 Feel free to have a look at some of our projects:
@@ -20,14 +18,10 @@ Feel free to have a look at some of our projects:
 - [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl): Julia Library for Interatomic Potentials
 - [Libxc.jl](https://github.com/JuliaMolSim/Libxc.jl): Julia bindings to the libxc library for exchange-correlation functionals
 
-## Slack channel
+## Slack channel \label{slack}
 [slack-url]: https://join.slack.com/t/juliamolsim/shared_invite/zt-tc060co0-HgiKApazzsQzBHDlQ58A7g
 Get involved in ongoing conversations by joining our [Slack workspace][slack-url]!
 
 ## Virtual meetings
-The "kickoff" will be [the BoF session](https://pretalx.com/juliacon2021/talk/ZQJAW3/)
-at 2021 JuliaCon.
-Make sure you're [registered](https://juliacon.org/2021/tickets/) for the conference
-(free!) and please join us there!
-
-If you missed it you can find the [notes on github](https://github.com/JuliaMolSim/Juliacon2021).
+- [Birds of Feather at JuliaCon 2021](/juliacon21)
+- [Minisymposium at JuliaCon 2022](/juliacon22)
