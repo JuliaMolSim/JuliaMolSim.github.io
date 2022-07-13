@@ -6,7 +6,7 @@ Your friendly organisation about molecular simulations in Julia.
 We're currently working on setting up this website. You can also check us out on [GitHub](https://github.com/JuliaMolSim)!
 
 @@colbox-blue
-We're organizing a minisymposium at JuliaCon 2022. It will take place on July 22 from 1400-1700 UTC, and you can still participate by giving a "mini-pitch" – see [agenda page](/pages/juliacon22) for details
+We're organizing a minisymposium at JuliaCon 2022. It will take place on July 22 from 1400-1700 UTC, and you can still participate by giving a "mini-pitch" – see [agenda page](/juliacon22) for details
 @@
 
 ## Projects
@@ -23,7 +23,5 @@ Feel free to have a look at some of our projects:
 Get involved in ongoing conversations by joining our [Slack workspace][slack-url]!
 
 ## Virtual meetings
-The "kickoff" was the [the BoF session](https://pretalx.com/juliacon2021/talk/ZQJAW3/)
-at 2021 JuliaCon.
-
-If you missed it you can find the [notes on GitHub](https://github.com/JuliaMolSim/Juliacon2021).
+- [Birds of Feather at JuliaCon 2021](/juliacon21)
+- [Minisymposium at JuliaCon 2022](/juliacon22)
