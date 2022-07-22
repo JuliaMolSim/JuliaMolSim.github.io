@@ -12,7 +12,7 @@ Each talk will be 15 minutes followed by 5 minutes for Q&A/discussion.
 * 1410-1430: [Chemellia](https://www.chemellia.org) ([Rachel Kurchin](https://rkurchin.github.io)) [[slides](/JuliaCon22_slides/Rachel_slides.pdf)]
 * 1430-1450: [Molly.jl](https://juliamolsim.github.io/Molly.jl/stable/) ([Joe Greener](http://jgreener64.github.io))
 * 1450-1510: [DFTK.jl](https://docs.dftk.org/stable/) ([Michael Herbst](https://michael-herbst.com)) [[slides](https://michael-herbst.com/talks/2022.07.22_dftk_juliacon.pdf)]
-* 1510-1530: [CESMIX](https://computing.mit.edu/cesmix/) ([Emmanuel Lujan](https://www.emmanuellujan.com)) [[slides](/JuliaCon22_slides/Emmanuel_slides.pptx.pdf)]
+* 1510-1530: [CESMIX](https://computing.mit.edu/cesmix/) ([Emmanuel Lujan](https://www.emmanuellujan.com)) [[slides](https://docs.google.com/presentation/d/1d4vU7Y9wf4YgLu4bjkxzJNIE40i0i7fs/edit?usp=sharing&ouid=118164340519016025759&rtpof=true&sd=true)]
 
 ## Contributed Community Talks
 Each talk will be 15 minutes followed by 5 minutes for Q&A/discussion.
