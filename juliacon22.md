@@ -1,5 +1,5 @@
 # JuliaCon 2022 Minisymposium \label{juliacon22}
-Our JuliaCon 2022 minisymposium will take place on July 22 from 1400-1700 UTC. **We are still accepting "quick pitch" submissions, contact Rachel via email (rkurchin at cmu dot edu) or on the [Slack workspace](#slack) if you're interested!**
+Our JuliaCon 2022 minisymposium took place on July 22 from 1400-1700 UTC. You can view the recording [here](https://www.youtube.com/watch?v=trapn-yIv8g). Slides from some of the talks are linked below.
 
 The agenda is as follows:
 
@@ -9,10 +9,10 @@ The agenda is as follows:
 ## Talks from Projects using AtomsBase
 Each talk will be 15 minutes followed by 5 minutes for Q&A/discussion.
 
-* 1410-1430: [Chemellia](https://www.chemellia.org) ([Rachel Kurchin](https://rkurchin.github.io))
+* 1410-1430: [Chemellia](https://www.chemellia.org) ([Rachel Kurchin](https://rkurchin.github.io)) [[slides](/JuliaCon22_slides/Rachel_slides.pdf)]
 * 1430-1450: [Molly.jl](https://juliamolsim.github.io/Molly.jl/stable/) ([Joe Greener](http://jgreener64.github.io))
-* 1450-1510: [DFTK.jl](https://docs.dftk.org/stable/) ([Michael Herbst](https://michael-herbst.com))
-* 1510-1530: [CESMIX](https://computing.mit.edu/cesmix/) ([Emmanuel Lujan](https://www.emmanuellujan.com))
+* 1450-1510: [DFTK.jl](https://docs.dftk.org/stable/) ([Michael Herbst](https://michael-herbst.com)) [[slides](https://michael-herbst.com/talks/2022.07.22_dftk_juliacon.pdf)]
+* 1510-1530: [CESMIX](https://computing.mit.edu/cesmix/) ([Emmanuel Lujan](https://www.emmanuellujan.com)) [[slides](/JuliaCon22_slides/Emmanuel_slides.pptx.pdf)]
 
 ## Contributed Community Talks
 Each talk will be 15 minutes followed by 5 minutes for Q&A/discussion.
@@ -22,4 +22,6 @@ Each talk will be 15 minutes followed by 5 minutes for Q&A/discussion.
 * 1610-1630: [NQCDynamics.jl](https://nqcd.github.io/NQCDynamics.jl/dev/) ([James Gardner](https://warwick.ac.uk/fac/sci/chemistry/research/maurer/maurergroup/people/james/))
 
 ## Quick Pitch Session
-We’re reserving the last ~half hour for “quick pitches” of community projects. Since a major outcome of last year’s BoF session was the coordination of the team that built AtomsBase, we hope this minisymposium can be a catalyst for further such projects. So if you have an idea for a software project or other community effort of some kind (Seminar series? Workshop? Wikipedia edit-a-thon? Seriously, anything)  and are looking for a team to help make it happen, **LET ME KNOW!** You can get in touch via email (rkurchin at cmu dot edu) or [Slack](#slack).
+We’re reserving the last ~half hour for “quick pitches” of community projects. Since a major outcome of last year’s BoF session was the coordination of the team that built AtomsBase, we hope this minisymposium can be a catalyst for further such projects.
+
+Quick pitches given by Rachel Kurchin (seminar series), Pranay Venkatesh ([Sclera.jl](https://github.com/chemicalfiend/Sclera.jl)), José Pereira ([ProtoSyn](https://github.com/sergio-santos-group/ProtoSyn.jl)), and Letícia Madureira (QuantumFoca, [slides](/JuliaCon22_slides/Leticia_slides.pdf))
