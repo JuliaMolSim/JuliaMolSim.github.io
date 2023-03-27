@@ -18,9 +18,9 @@ Feel free to have a look at some of our projects:
 - [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl): Julia Library for Interatomic Potentials
 - [Libxc.jl](https://github.com/JuliaMolSim/Libxc.jl): Julia bindings to the libxc library for exchange-correlation functionals
 
-## Slack channel \label{slack}
-[slack-url]: https://join.slack.com/t/juliamolsim/shared_invite/zt-tc060co0-HgiKApazzsQzBHDlQ58A7g
-Get involved in ongoing conversations by joining our [Slack workspace][slack-url]!
+## Zulip chat \label{slack}
+[zulip-url]: https://juliamolsim.zulipchat.com/register/
+Get involved in ongoing conversations by joining our [Zulip chat][zulip-url]!
 
 ## Virtual meetings
 - [Birds of Feather at JuliaCon 2021](/juliacon21)
