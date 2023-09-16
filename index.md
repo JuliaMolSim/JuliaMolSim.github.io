@@ -7,7 +7,7 @@ We're currently working on setting up this website. You can also check us out on
 
 ## Projects
 Feel free to have a look at some of our projects:
-- [ACE.jl](https://github.com/ACEsuit/ACE.jl): Atomic cluster expansion in Julia
+- [ACEpotentials.jl](https://github.com/ACEsuit/ACEpotentials.jl): Interatomic potential learning using the Atomic cluster expansion; see also [ACEsuit](https://github.com/ACEsuit) for related packages.
 - [AtomsBase.jl](https://github.com/JuliaMolSim/AtomsBase.jl): A Julian abstract interface for atomic structures.
 - [DFTK.jl](https://dftk.org): A flexible code for density-functional theory simulations
 - [Molly.jl](https://juliamolsim.github.io/Molly.jl/stable/): Molecular simulation in Julia
