@@ -1,5 +1,7 @@
 # MolSSI workshop on Julia for Computational Molecular and Materials Science \label{molssi_workshop}
 
+![MolSSI logo](/assets/molssi_main_logo.png)
+
 The [Molecular Sciences Software Institute (MolSSI)](https://molssi.org/) is generously sponsoring a workshop organized by [Rachel Kurchin](https://engineering.cmu.edu/directory/bios/kurchin-rachel.html) with the help of the JuliaMolSim community.
 
 There are two core purposes to this workshop:
