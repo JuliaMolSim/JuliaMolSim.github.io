@@ -31,14 +31,21 @@ Unless otherwise noted, all activities will take place in the Bosch Spark Confer
 *The first full day of the workshop will focus on the current interfaces (morning) and tools (late morning and afternoon) available in Julia for computational molecular and materials science.*
 
 **8:30-9:00** Breakfast and introduction from Prof. [Rachel Kurchin](https://engineering.cmu.edu/directory/bios/kurchin-rachel.html)
+
 **9:00-9:30** AtomsBase interface
+
 **9:30-10:00** AtomsCalculators interface (Dr. [Teemu Järvinen](https://github.com/tjjarvinen))
+
 **10:00-12:00** DFTK introduction and hands-on demo (Prof. [Michael Herbst](https://michael-herbst.com/))
+
 
 **12:00-1:00** Lunch
 
+
 **1:00-3:00** Molly introduction and hands-on demo (Dr. [Joe Greener](https://jgreener64.github.io/))
+
 **3:00-3:30** Coffee break
+
 **3:30-5:30** ACE and ACEPotentials introduction and hands-on demo (Prof. [Christoph Ortner](https://personal.math.ubc.ca/~ortner/research/) and Dr. [Chuck Witt](https://www.mtg.msm.cam.ac.uk/People/dr-w-chuck-witt))
 
 **evening** Group dinner at [The Porch](https://www.dineattheporch.com/schenley)
