@@ -46,7 +46,7 @@ Unless otherwise noted, all activities will take place in the Bosch Spark Confer
 
 **3:00-3:30** Coffee break
 
-**3:30-5:30** ACE and ACEPotentials introduction and hands-on demo (Prof. [Christoph Ortner](https://personal.math.ubc.ca/~ortner/research/) and Dr. [Chuck Witt](https://www.mtg.msm.cam.ac.uk/People/dr-w-chuck-witt))
+**3:30-5:30** ACE and ACEPotentials introduction and hands-on demo (Prof. [Christoph Ortner](https://personal.math.ubc.ca/~ortner/research/) and Dr. [Chuck Witt](https://seas.harvard.edu/person/chuck-witt))
 
 **evening** Group dinner at [The Porch](https://www.dineattheporch.com/schenley)
 
