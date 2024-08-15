@@ -7,3 +7,4 @@ package-lock.json
 .*.swo
 _assets/scripts/output/
 Manifest.toml
+.vscode/*
