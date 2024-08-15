@@ -8,10 +8,10 @@ Your friendly organisation about molecular and materials simulations in Julia.
 You can also check us out on [GitHub](https://github.com/JuliaMolSim)!
 
 @@colbox-blue
-Rachel and Michael will give a
+Rachel and Michael gave a
 [keynote at Juliacon 2024](https://juliacon.org/2024/keynotes/#materials_modeling_bonding_across_atoms_code_and_people)
 *Materials Modeling: Bonding across atoms, code, and people*.
-Their talk will also cover the latest developments around JuliaMolsim.
+Their talk also covered the latest developments around JuliaMolSim. (Once talks are online, we will add a YouTube link here)
 @@
 
 ## AtomsBase and AtomsCalculators ecosystem
