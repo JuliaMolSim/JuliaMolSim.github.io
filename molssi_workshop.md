@@ -11,7 +11,7 @@ There are two core purposes to this workshop:
 As such, if you are a computational molecular/materials scientist – and already a Julia user, or are just Julia-curious – we'd love to have you with us (either in-person or virtually)!
 
 ## Logistics and Registration
-The workshop is **free to attend** and will take place at **Carnegie Mellon University** in Pittsburgh, PA from October 20-23, 2024, with a hybrid option for those unable to attend in person. [CLICK HERE]() to register!
+The workshop is **free to attend** and will take place at **Carnegie Mellon University** in Pittsburgh, PA from October 20-23, 2024, with a hybrid option for those unable to attend in person. [CLICK HERE](https://form.jotform.com/242276836566165) to register!
 
 There is a discounted hotel block available at the nearby Marriott Courtyard Pittsburgh University Center; see the link in registration form to book.
 
