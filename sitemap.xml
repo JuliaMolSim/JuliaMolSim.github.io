@@ -2,20 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
+    <loc>molssi_workshop/index.html</loc>
+    <lastmod>2024-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>juliacon22/index.html</loc>
-    <lastmod>2024-07-09</lastmod>
+    <lastmod>2024-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>index.html</loc>
-    <lastmod>2024-07-09</lastmod>
+    <lastmod>2024-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>juliacon21/index.html</loc>
-    <lastmod>2024-07-09</lastmod>
+    <lastmod>2024-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
