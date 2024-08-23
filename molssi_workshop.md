@@ -21,14 +21,14 @@ If travel/lodging costs are a significant barrier for you, please reach out as s
 
 Unless otherwise noted, all activities will take place in the Bosch Spark Conference Room (5201 Scott Hall).
 
-### Day 0 (Sunday, October 20): Intro to Julia
+### Day 0 (Sunday, October 20, in-person only): Intro to Julia
 *To be as welcoming and inclusive as possible to attendees that are not already Julia users, we will kick off with a half-day accelerated introduction to the language targeted at an audience that is already proficient at programming in some other language.*
 
 *If you already know Julia, you are still welcome to attend!*
 
 **2:00-5:00** Intro to Julia ([Ethan Meitz](https://ethanmeitz.com/) and [Leticia Madureira](https://github.com/Leticia-maria))
 
-### Day 1 (Monday, October 21): State of the Ecosystem
+### Day 1 (Monday, October 21, hybrid): State of the Ecosystem
 
 *The first full day of the workshop will focus on the current interfaces (morning) and tools (late morning and afternoon) available in Julia for computational molecular and materials science.*
 
@@ -52,7 +52,7 @@ Unless otherwise noted, all activities will take place in the Bosch Spark Confer
 
 **evening** Group dinner at [The Porch](https://www.dineattheporch.com/schenley)
 
-### Day 2 (Tuesday, October 22): Looking Outwards
+### Day 2 (Tuesday, October 22, hybrid): Looking Outwards
 *The second day will feature presentations on non-Julia interfaces and tools, with a focus on key design/governance decisions made along their development trajectories. In the afternoon, we will discuss together what the JuliaMolSim community can learn from these journeys.*
 
 **morning** Exact details still TBD, but will include talks on QCSchema, ASE, pymatgen, AiiDA, and possibly other tools from the broader ecosystem
@@ -60,7 +60,7 @@ Unless otherwise noted, all activities will take place in the Bosch Spark Confer
 **afternoon** Semi-structured discussions on future priorities, including planning for Wednesday hackathon!
 
 
-### Day 3 (Wednesday, October 23): Hackathon!
+### Day 3 (Wednesday, October 23, in-person and on GitHub): Hackathon!
 *Taking inspiration from JuliaCon, we will conclude the workshop with a hackathon to begin working on projects including:*
 * *Ideas brainstormed in discussions on Tuesday afternoon*
 * *Existing issues in ecosystem packages*
