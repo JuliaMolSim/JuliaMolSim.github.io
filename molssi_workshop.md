@@ -55,7 +55,7 @@ Unless otherwise noted, all activities will take place in the Bosch Spark Confer
 ### Day 2 (Tuesday, October 22, hybrid): Looking Outwards
 *The second day will feature presentations on non-Julia interfaces and tools, with a focus on key design/governance decisions made along their development trajectories. In the afternoon, we will discuss together what the JuliaMolSim community can learn from these journeys.*
 
-**morning** Exact details still TBD, but will include talks on QCSchema, ASE, pymatgen, AiiDA, and possibly other tools from the broader ecosystem
+**morning** Exact agenda still TBD, but will include talks on tools and interfaces from the broader ecosystem including [QCSchema](https://molssi.org/software/qcschema-2/), [ASE](https://wiki.fysik.dtu.dk/ase/), [AiiDA](https://www.aiida.net/), and [AFLOW](https://www.aflowlib.org/)
 
 **afternoon** Semi-structured discussions on future priorities, including planning for Wednesday hackathon!
 
