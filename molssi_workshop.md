@@ -11,7 +11,7 @@ There are two core purposes to this workshop:
 As such, if you are a computational molecular/materials scientist – and already a Julia user, or are just Julia-curious – we'd love to have you with us (either in-person or virtually)!
 
 ## Logistics and Registration
-The workshop is **free to attend** and will take place at **Carnegie Mellon University** in Pittsburgh, PA from October 20-23, 2024, with a hybrid option for those unable to attend in person. [CLICK HERE](https://form.jotform.com/242276836566165) to register!
+The workshop is **free to attend** and will take place at **Carnegie Mellon University** in Pittsburgh, PA from October 20-23, 2024, with a hybrid option for those unable to attend in person. [CLICK HERE](https://form.jotform.com/242276836566165) to register! *Deadline: September 20*
 
 There is a discounted hotel block available at the nearby Marriott Courtyard Pittsburgh University Center; see the link in registration form to book.
 
@@ -32,32 +32,48 @@ Unless otherwise noted, all activities will take place in the Bosch Spark Confer
 
 *The first full day of the workshop will focus on the current interfaces (morning) and tools (late morning and afternoon) available in Julia for computational molecular and materials science.*
 
-**8:30-9:00** Breakfast and introduction from Prof. [Rachel Kurchin](https://engineering.cmu.edu/directory/bios/kurchin-rachel.html)
+**8:30-9:00** Breakfast and introduction from [Prof. Rachel Kurchin](https://engineering.cmu.edu/directory/bios/kurchin-rachel.html)
 
 **9:00-9:30** AtomsBase interface
 
-**9:30-10:00** AtomsCalculators interface (Dr. [Teemu Järvinen](https://github.com/tjjarvinen))
+**9:30-10:00** AtomsCalculators interface ([Dr. Teemu Järvinen](https://github.com/tjjarvinen))
 
-**10:00-12:00** DFTK introduction and hands-on demo (Prof. [Michael Herbst](https://michael-herbst.com/))
+**10:00-10:15** Break
+
+**10:15-12:15** DFTK introduction and hands-on demo ([Prof. Michael Herbst](https://michael-herbst.com/))
 
 
-**12:00-1:00** Lunch
+**12:15-1:15** Lunch
 
 
-**1:00-3:00** Molly introduction and hands-on demo (Dr. [Joe Greener](https://jgreener64.github.io/))
+**1:15-3:15** Molly introduction and hands-on demo ([Dr. Joe Greener](https://jgreener64.github.io/))
 
-**3:00-3:30** Coffee break
+**3:15-3:45** Coffee break
 
-**3:30-5:30** ACE and ACEPotentials introduction and hands-on demo (Prof. [Christoph Ortner](https://personal.math.ubc.ca/~ortner/research/) and Dr. [Chuck Witt](https://seas.harvard.edu/person/chuck-witt))
+**3:45-5:45** ACE and ACEPotentials introduction and hands-on demo ([Prof. Christoph Ortner](https://personal.math.ubc.ca/~ortner/research/) and [Dr. Chuck Witt](https://seas.harvard.edu/person/chuck-witt))
 
 **evening** Group dinner at [The Porch](https://www.dineattheporch.com/schenley)
 
 ### Day 2 (Tuesday, October 22, hybrid): Looking Outwards
 *The second day will feature presentations on non-Julia interfaces and tools, with a focus on key design/governance decisions made along their development trajectories. In the afternoon, we will discuss together what the JuliaMolSim community can learn from these journeys.*
 
-**morning** Exact agenda still TBD, but will include talks on tools and interfaces from the broader ecosystem including [QCSchema](https://molssi.org/software/qcschema-2/), [ASE](https://wiki.fysik.dtu.dk/ase/), [AiiDA](https://www.aiida.net/), and [AFLOW](https://www.aflowlib.org/)
+**8:30-9:00** Breakfast and introduction from Prof. Rachel Kurchin
 
-**afternoon** Semi-structured discussions on future priorities, including planning for Wednesday hackathon!
+**9:00-9:45** [ASE](https://wiki.fysik.dtu.dk/ase/) ([Dr. Ask Hjorth Larsen](https://gitlab.com/askhl))
+
+**9:45-10:30** [AiiDA](https://www.aiida.net/) ([Dr. Jason Yu](https://github.com/unkcpz))
+
+**10:30-10:45** Break
+
+**10:45-11:30** [AFLOW](https://www.aflowlib.org/) ([Dr. Simon Divilov](https://scholar.google.com/citations?user=9LEcBjoAAAAJ&hl=en&oi=ao))
+
+**11:30-12:15** [QCSchema](https://molssi.org/software/qcschema-2/) ([Dr. Lori Burns](https://github.com/loriab))
+
+**12:15-12:30** Brief discussion and planning for afternoon topics
+
+**12:30-1:30** Lunch
+
+**1:30-5:00** Semi-structured discussions on future priorities, including planning for Wednesday hackathon! (More detailed topic list TBA)
 
 
 ### Day 3 (Wednesday, October 23, in-person and on GitHub): Hackathon!
