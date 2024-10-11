@@ -11,7 +11,7 @@ There are two core purposes to this workshop:
 As such, if you are a computational molecular/materials scientist – and already a Julia user, or are just Julia-curious – we'd love to have you with us (either in-person or virtually)!
 
 ## Logistics and Registration
-The workshop is **free to attend** and will take place at **Carnegie Mellon University** in Pittsburgh, PA from October 20-23, 2024, with a hybrid option for those unable to attend in person. [CLICK HERE](https://form.jotform.com/242276836566165) to register! *Deadline: September 20*
+The workshop is **free to attend** and will take place at **Carnegie Mellon University** in Pittsburgh, PA from October 20-23, 2024, with a hybrid option for those unable to attend in person. [CLICK HERE](https://form.jotform.com/242276836566165) to register! *Deadline: October 11*
 
 There is a discounted hotel block available at the nearby Marriott Courtyard Pittsburgh University Center; see the link in registration form to book.
 
@@ -52,7 +52,7 @@ Unless otherwise noted, all activities will take place in the Bosch Spark Confer
 
 **3:45-5:45** ACE and ACEPotentials introduction and hands-on demo ([Prof. Christoph Ortner](https://personal.math.ubc.ca/~ortner/research/) and [Dr. Chuck Witt](https://seas.harvard.edu/person/chuck-witt))
 
-**evening** Group dinner at [The Porch](https://www.dineattheporch.com/schenley)
+**evening** Group dinner at [Schatz dining room](https://www.cmu.edu/cohon-university-center/center-facilities/schatz/index.html)
 
 ### Day 2 (Tuesday, October 22, hybrid): Looking Outwards
 *The second day will feature presentations on non-Julia interfaces and tools, with a focus on key design/governance decisions made along their development trajectories. In the afternoon, we will discuss together what the JuliaMolSim community can learn from these journeys.*
