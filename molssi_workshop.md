@@ -57,7 +57,9 @@ Unless otherwise noted, all activities will take place in the Bosch Spark Confer
 ### Day 2 (Tuesday, October 22, hybrid): Looking Outwards
 *The second day will feature presentations on non-Julia interfaces and tools, with a focus on key design/governance decisions made along their development trajectories. In the afternoon, we will discuss together what the JuliaMolSim community can learn from these journeys.*
 
-**8:30-9:00** Breakfast and introduction from Prof. Rachel Kurchin
+**8:30-8:45** Breakfast and introduction from Prof. Rachel Kurchin
+
+**8:45-9:00** Group photo!
 
 **9:00-9:45** [ASE](https://wiki.fysik.dtu.dk/ase/) ([Dr. Ask Hjorth Larsen](https://gitlab.com/askhl))
 
