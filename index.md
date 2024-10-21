@@ -10,8 +10,9 @@ You can also check us out on [GitHub](https://github.com/JuliaMolSim)!
 @@colbox-blue
 Rachel and Michael gave a
 [keynote at Juliacon 2024](https://juliacon.org/2024/keynotes/#materials_modeling_bonding_across_atoms_code_and_people)
-*Materials Modeling: Bonding across atoms, code, and people*.
-Their talk also covered the latest developments around JuliaMolSim. (Once talks are online, we will add a YouTube link here)
+[*Materials Modeling: Bonding across atoms, code, and people*](https://michael-herbst.com/talks/2024.07.10_juliamolsim.pdf).
+Their talk also covered the latest developments around JuliaMolSim.
+[[Slides]](https://michael-herbst.com/talks/2024.07.10_juliamolsim.pdf) [[Youtube recording]](https://www.youtube.com/watch?v=zDh6LmEGUDc)
 @@
 
 ## AtomsBase and AtomsCalculators ecosystem
