@@ -40,7 +40,7 @@ Unless otherwise noted, all activities will take place in the Bosch Spark Confer
 
 **10:00-10:15** Break
 
-**10:15-12:15** DFTK introduction and hands-on demo ([Prof. Michael Herbst](https://michael-herbst.com/))
+**10:15-12:15** [DFTK introduction and hands-on demo](https://github.com/mfherbst/demo-molssi-workshop-dftk) ([Prof. Michael Herbst](https://michael-herbst.com/))
 
 
 **12:15-1:15** Lunch
