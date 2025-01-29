@@ -2,7 +2,11 @@
 
 ![MolSSI logo](/assets/molssi_main_logo.png)
 
-The [Molecular Sciences Software Institute (MolSSI)](https://molssi.org/) is generously sponsoring a workshop organized by [Rachel Kurchin](https://engineering.cmu.edu/directory/bios/kurchin-rachel.html) with the help of the JuliaMolSim community.
+@@colbox-blue
+Recordings from this workshop can be found [on Youtube](https://www.youtube.com/playlist?list=PLagOIMNRoCsV1-BQAygx86cQt1l5Psh9Z)!
+@@
+
+The [Molecular Sciences Software Institute (MolSSI)](https://molssi.org/) generously sponsored a workshop organized by [Rachel Kurchin](https://engineering.cmu.edu/directory/bios/kurchin-rachel.html) with the help of the JuliaMolSim community.
 
 There are two core purposes to this workshop:
 1. Convene users and developers of existing interfaces and packages to strengthen collaboration within the JuliaMolSim community.
