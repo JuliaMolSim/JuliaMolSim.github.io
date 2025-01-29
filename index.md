@@ -50,7 +50,10 @@ Some other packages for molecular and materials modelling worth mentioning:
 ## Contacting us
 [zulip-url]: https://juliamolsim.zulipchat.com/register/
 [slack-url]: https://julialang.org/slack/
-Get involved in ongoing conversations by joining our [Zulip chat][zulip-url]!
+
+We have a community call on the **third Monday of each month at 12:15pm US Eastern time**. Details can be found on the [Julia Events Calendar](https://julialang.org/community/#events).
+
+Get involved in ongoing (and slightly less synchronous) conversations by joining our [Zulip chat][zulip-url]!
 
 There is also a #juliamolsim channel on the [Julia Slack][slack-url],
 but we make fewer promises about checking this regularly...
