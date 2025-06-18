@@ -27,20 +27,39 @@ Their talk also covered the latest developments around JuliaMolSim.
   for computing key atomistic properties of structures, including
   energies, forces, virial stresses.
 
-Integrating with the above interfaces are the following packages
-from the JuliaMolSim ecosystem:
+The following packages are part of the JuliaMolSim and based
+on the above interfaces.
+We also feature a few packages for
+[cross-ecosystem links](#cross-ecosystem_links).
 
+## Building and loading atomistic structures
 - [AtomsBuilder.jl](https://github.com/JuliaMolSim/AtomsBuilder.jl):
-  Package for building structures as `AbstractSystem`s (surfaces, defects, ...)
+  Package for building structures as `AbstractSystem` (surfaces, defects, ...)
 - [AtomsIO.jl](https://github.com/mfherbst/AtomsIO.jl):
   Read and write structures/trajectories to a variety of file formats
+
+## Some AtomsCalculators
 - [ACEpotentials.jl](https://github.com/ACEsuit/ACEpotentials.jl): Interatomic potential learning using the Atomic cluster expansion; see also [ACEsuit](https://github.com/ACEsuit) for related packages.
 - [DFTK.jl](https://dftk.org): A flexible code for density-functional theory simulations
 - [EmpiricalPotentials.jl](https://github.com/JuliaMolSim/EmpiricalPotentials.jl)
   and [InteratomicPotentials.jl](https://github.com/cesmix-mit/InteratomicPotentials.jl):
   Simple parametrised materials potentials (EAM, LJ, ...)
+
+## Dynamics and atomic arrangements
+- [GeometryOptimization.jl](https://github.com/JuliaMolSim/GeometryOptimization.jl/):
+  Optimise atomistic structures (atomic positions and lattices)
+  based on a framework featuring generic optimisers.
 - [Molly.jl](https://juliamolsim.github.io/Molly.jl/stable/):
   Molecular simulation in Julia
+
+## Cross-ecosystem links
+- [ASEconvert.jl](https://github.com/mfherbst/ASEconvert.jl):
+  Integration with the [Atomistic Simulation Environment (ASE)](https://wiki.fysik.dtu.dk/ase/index.html): Use ASE Atoms as `AbstractSystem`,
+  use ASE Calculators as `AbstractCalculator`.
+- [IPICalculator.jl](https://github.com/JuliaMolSim/IPICalculator.jl/):
+  Two-way integration with the [IPI socket protocol](https://ipi-code.org/);
+  enables usage of Julia calculators in external ecosystems and vice versa
+  usage of external calculators in Julia.
 
 ## Other packages
 Some other packages for molecular and materials modelling worth mentioning:
