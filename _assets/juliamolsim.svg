@@ -7,9 +7,9 @@
    viewBox="0 0 143.84426 30.392402"
    version="1.1"
    id="svg8"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
    sodipodi:docname="juliamolsim.svg"
-   inkscape:export-filename="juliamolsim.pdf"
+   inkscape:export-filename="juliamolsim.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -119,17 +119,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50000001"
-     inkscape:cx="259.99999"
-     inkscape:cy="451.99999"
+     inkscape:zoom="1"
+     inkscape:cx="191.5"
+     inkscape:cy="206.5"
      inkscape:document-units="mm"
      inkscape:current-layer="g995"
      showgrid="false"
-     inkscape:window-width="836"
-     inkscape:window-height="975"
+     inkscape:window-width="1390"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="54"
-     inkscape:window-maximized="1"
+     inkscape:window-y="440"
+     inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -338,7 +338,7 @@
          sodipodi:arc-type="arc" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:20.1873px;line-height:5.91426px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.23657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:5.78776px;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.23657px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="67.992302"
          y="80.763748"
          id="text819-6"
@@ -347,7 +347,7 @@
            id="tspan817-7"
            x="67.992302"
            y="80.763748"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.1873px;font-family:'Tamil MN';-inkscape-font-specification:'Tamil MN';fill:#1a1a1a;stroke-width:0.23657px">JuliaMolsim</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Tamil MN';-inkscape-font-specification:'Tamil MN Bold';fill:#1a1a1a;stroke-width:0.23657px">JuliaMolSim</tspan></text>
     </g>
   </g>
 </svg>
