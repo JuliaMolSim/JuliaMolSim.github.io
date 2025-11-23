@@ -65,6 +65,8 @@ We also feature a few packages for
 Some other packages for molecular and materials modelling worth mentioning:
 - [Wannier.jl](https://github.com/qiaojunfeng/Wannier.jl):
   Wannier localisation of electronic structures
+- [FreeBird.jl](https://github.com/wexlergroup/FreeBird.jl):
+  Free energy calculators by Bayesian-inspired nested sampling and other integration techniques.
 
 ## Contacting us
 [zulip-url]: https://juliamolsim.zulipchat.com/register/
