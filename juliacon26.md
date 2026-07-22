@@ -7,6 +7,7 @@ Here is a list of confirmed talks, you can click on the links to see more detail
 See you in Mainz!
 
 ## Schedule (Thursday, August 13, Room: **Muschel — N2**)
+
 14:30–15:00 🎤 [Charlotte Rickert](https://pretalx.com/juliacon-2026/speaker/WFL8DE/), [Daniel Kats](https://pretalx.com/juliacon-2026/speaker/SFA7LB/) — [ElemCo.jl: A Julia Package for Electron Correlation in Molecules and Materials](https://pretalx.com/juliacon-2026/talk/THBSKY/)
 
 15:00–15:30 🎤 [Alexander Spears](https://pretalx.com/juliacon-2026/speaker/TEQD9C/) — [ML-accelerated simulation of laser-driven hydrogen evolution with NQCDynamics.jl – Julia and Python in harmony?](https://pretalx.com/juliacon-2026/talk/BLZJJW/)
