@@ -6,7 +6,8 @@ Here is a list of confirmed talks, you can click on the links to see more detail
 
 See you in Mainz!
 
-## Schedule (Thursday, August 13)
+## Schedule (Thursday, August 13, Room: **Muschel — N2**)
+
 14:30–15:00 🎤 [Charlotte Rickert](https://pretalx.com/juliacon-2026/speaker/WFL8DE/), [Daniel Kats](https://pretalx.com/juliacon-2026/speaker/SFA7LB/) — [ElemCo.jl: A Julia Package for Electron Correlation in Molecules and Materials](https://pretalx.com/juliacon-2026/talk/THBSKY/)
 
 15:00–15:30 🎤 [Alexander Spears](https://pretalx.com/juliacon-2026/speaker/TEQD9C/) — [ML-accelerated simulation of laser-driven hydrogen evolution with NQCDynamics.jl – Julia and Python in harmony?](https://pretalx.com/juliacon-2026/talk/BLZJJW/)
@@ -25,4 +26,14 @@ See you in Mainz!
 
 17:15–17:30 🎤 [Michael F. Herbst](https://pretalx.com/juliacon-2026/speaker/DZ7WHZ/) — [Extending DFTK.jl's features, but not its code complexity](https://pretalx.com/juliacon-2026/talk/ZKCBJY/)
 
-The JuliaCon poster session is in the same evening, and several JuliaMolSIm speakers will present their package(s) there!
+The JuliaCon poster session is in the same evening, and several JuliaMolSIm speakers will present their package(s) there! Please see the list on [JuliaCon 2026 website](https://juliacon.org/2026/posters/).
+
+On Friday, there is a block of closely related talks in the General track, at room **Muschel — N1**:
+
+15:00–15:15 🎤 [Nathan Zimmerberg](https://pretalx.com/juliacon-2026/speaker/TL7PTK/) - [What’s new with MEDYAN.jl: A Coarse-Grained Cytoskeleton Simulator](https://pretalx.com/juliacon-2026/talk/KGR8N9/)
+
+15:15–15:30 🎤 [Benoît Richard](https://pretalx.com/juliacon-2026/speaker/GZQBUC/) - [Building a Coulomb explosion simulation on top of DifferentialEquations.jl](https://pretalx.com/juliacon-2026/talk/GJRCSK/)
+
+[Coffee Break]
+
+15:45–16:00 🎤 [Fabian Pieck](https://pretalx.com/juliacon-2026/speaker/HAKD78/) - [RandomSequentialAdsorption.jl - Modeling Adsorbate Packing in Area-Selective Atomic Layer Deposition](https://pretalx.com/juliacon-2026/talk/FDVTJJ/)
